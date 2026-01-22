@@ -15,7 +15,7 @@ env:
   KERNEL_SOURCE : "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8150.git"
   KERNEL_BRANCH : "16.0"
 
-  CLANG_SOURCE : "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/"
+  CLANG_SOURCE : "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/main/clang-r547379.tar.gz"
   CLANG_BRANCH : ""
 
   GCC_GNU : true
